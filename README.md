@@ -11,3 +11,9 @@ reactとかを使ってdb接続できるやつ？？
 ## 注意
 
 node_modulesも一緒に入っているためすごく重い
+
+
+## 実行
+
+`cd client` ファイルの移動
+`npm start` npm実行
